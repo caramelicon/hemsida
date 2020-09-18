@@ -2,7 +2,7 @@ html,body{
     height: 100%;
     scroll-behavior: smooth;
     padding-top: 16px;
-    background-image: url(/bilder/ljusaree.jpg);
+    background-image: url(../hemsida/bilder/ljusaree.jpg);
     font-family: 'Libre Baskerville', Times, serif;
     font-size: 0.9em;
 }
